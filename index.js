@@ -27,6 +27,7 @@ writeCards(cards);
 
 let count = 10
 function countDown(count){
+   
     while (count >= 0){
         console.log(count--);
     }
